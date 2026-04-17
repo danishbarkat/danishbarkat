@@ -1,355 +1,378 @@
 <div align="center">
 
-<!-- Animated Venom Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=DANISH%20BARKAT&fontSize=80&color=0:00ff87,30:60efff,70:bf00ff,100:ff006e&stroke=60efff&strokeWidth=3&fontColor=ffffff&animation=twinkling&desc=🚀%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Architect%20🚀&descAlignY=78&descSize=20&fontAlignY=45" width="100%" alt="Danish Barkat Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DANISH%20BARKAT&fontSize=80&color=0:0d0221,25:1a0533,50:0d1545,75:1a0533,100:0d0221&fontColor=ffffff&animation=fadeIn&stroke=a855f7&strokeWidth=3&desc=◈%20AI%20Engineer%20◈%20Data%20Scientist%20◈%20ML%20Architect%20◈%20Computer%20Vision%20◈&descSize=17&descColor=38bdf8&fontAlignY=44&descAlignY=68" width="100%"/>
 
-<!-- Invisible Canary Token -->
-<img src="http://canarytokens.com/feedback/about/mhsqki1c7wadqzq2i2fo81n15/payments.js" style="display:none" width="1" height="1" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=720&lines=⚡+Production+ML+%7C+Real+Business+Impact;🧠+LLMs+·+VLMs+·+Generative+AI+Products;👁️+Computer+Vision+%26+Segmentation+at+Scale;📊+Data+Scientist+—+From+Data+to+Decisions;🚀+Karachi%2C+PK+—+Open+to+Opportunities" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Status Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🎯_FOCUS-Artificial_Intelligence-00ff87?style=for-the-badge&labelColor=0d1117&color=00ff87" />
-  <img src="https://img.shields.io/badge/💼_ROLE-ML_Engineer-ff006e?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🌍_LOCATION-Karachi,_PK-60efff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/⚡_STATUS-Building_the_Future-ffd700?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-<!-- Profile Metrics — correct username: danishbarkat -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=danishbarkat&label=PROFILE+VIEWS&color=00ff87&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/danishbarkat?label=FOLLOWERS&style=for-the-badge&color=ff006e&labelColor=0d1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/danishbarkat?label=TOTAL+STARS&style=for-the-badge&color=60efff&labelColor=0d1117&logo=github" alt="Stars"/>
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 〔 M A T R I X 〕
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  01000100 01000001 01001110 01001001 01010011 01001000  ·  01000010 01000001    ║
-║  01010010 01001011 01000001 01010100  ·  01000001 01001001  ·  01000101 01001110 ║
-║  ░░░░░░░░░ [ SYSTEM INITIALIZED ] ░░░░ [ AI_ARCHITECT.exe ] ░░░░░░░░░░░░░░░░░ ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎭 WHO AM I?
-
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
-
-```javascript
-const danish = {
-  name        : "Danish Barkat",
-  title       : "AI Architect & Data Wizard 🧙‍♂️",
-  location    : "🌍 Karachi, Pakistan",
-  code        : ["Python", "C++", "JavaScript", "R", "Java"],
-
-  askMeAbout  : [
-    "🤖 Machine Learning",
-    "👁️ Computer Vision",
-    "🧠 Deep Learning",
-    "🔮 Generative AI",
-    "📊 Data Science"
-  ],
-
-  technologies: {
-    ai        : ["TensorFlow", "PyTorch", "Keras", "Scikit-learn"],
-    vision    : ["OpenCV", "YOLO", "Detectron2", "MediaPipe", "SAM"],
-    cloud     : ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
-    databases : ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    tools     : ["Git", "Jupyter", "VS Code", "Linux"]
-  },
-
-  currentFocus: "Building AI that changes the world 🚀",
-  philosophy  : "Data is the new oil; I'm the refinery ⚗️",
-  funFact     : "I debug faster than I code 😎"
-};
-
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-console.log("🎯 Ready to innovate? Let's connect!");
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<br clear="right"/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</div>
-
----
-
-## 🎨 TECH STACK ARSENAL
-
-<div align="center">
-
-### 🤖 AI / ML Frameworks
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="55"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=000" height="35"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/📍_Karachi%2C_PK-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_AI_Engineer-0ea5e9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📊_Data_Scientist-ec4899?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-10b981?style=for-the-badge&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=danishbarkat&style=for-the-badge&color=a855f7&labelColor=1e1b4b&label=👁+VIEWS"/>
 
 <br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishbarkat)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barkatdanish44@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danishbarkat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://danishbarkat.github.io)
+
+<br/>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=56&text=◈+01.+ABOUT+ME&fontSize=28&fontColor=38bdf8&fontAlign=50&stroke=38bdf8&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
+
+<div align="center">
+
+| 🏷️ | Detail |
+|:---:|---|
+| 👤 | **Danish Barkat** |
+| 💼 | Data Scientist & AI Engineer |
+| 📍 | Karachi, Pakistan |
+| 🏢 | AI-First Company |
+| 📧 | barkatdanish44@gmail.com |
+
+</div>
+
+<br/>
+
+```python
+focus = [
+  "Production ML Systems",       # 🤖
+  "Computer Vision & Segment.",  # 👁️
+  "LLMs · VLMs · GenAI",        # 🔮
+  "MLOps & Azure Pipelines",    # ☁️
+  "Data Analytics & BI",        # 📊
+]
+motto = "Data is oil — I run the refinery ⚗️"
+```
+
+<br/>
+
+> 💬 *"The best model is the one that solves the problem — not the one with the best paper."*
+
+</td>
+<td width="48%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/3%2B_Years-Experience-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/10%2B-Projects_Shipped-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/99%25-Uptime_Systems-10b981?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=56&text=◈+02.+WHAT+I+BUILD&fontSize=28&fontColor=ec4899&fontAlign=50&stroke=ec4899&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<div align="center">
+<table width="96%">
+<tr>
+
+<td align="center" valign="top" width="25%">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-f43f5e?style=flat-square" width="100%"/>
+
+### 🤖 ML Systems
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-f43f5e?style=flat-square" width="100%"/>
+
+End-to-end pipelines training → serving on Azure ML & AKS
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="36"/>
+
+![Sklearn](https://img.shields.io/badge/Sklearn-f43f5e?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-f43f5e?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-f43f5e?style=flat-square&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-f43f5e?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+
+<td align="center" valign="top" width="25%">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-a855f7?style=flat-square" width="100%"/>
 
 ### 👁️ Computer Vision
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" height="35"/>
-<img src="https://img.shields.io/badge/Detectron2-4B0082?style=for-the-badge&logo=meta&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/SAM-FF6B35?style=for-the-badge&logo=meta&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/GPT--4V-412991?style=for-the-badge&logo=openai&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-a855f7?style=flat-square" width="100%"/>
 
-<br/><br/>
+Detection, segmentation & tracking — YOLO to IoT Edge deployment
 
-### 💻 Programming Languages
+![YOLOv8](https://img.shields.io/badge/YOLOv8-a855f7?style=flat-square&logoColor=white)
+![SAM](https://img.shields.io/badge/SAM-a855f7?style=flat-square&logo=meta&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-a855f7?style=flat-square&logo=opencv&logoColor=white)
+![Detectron2](https://img.shields.io/badge/Detectron2-a855f7?style=flat-square&logo=meta&logoColor=white)
+![MaskRCNN](https://img.shields.io/badge/Mask_RCNN-a855f7?style=flat-square&logoColor=white)
+![DeepLab](https://img.shields.io/badge/DeepLab-a855f7?style=flat-square&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,bash&theme=dark" height="55"/>
+</td>
 
-<br/><br/>
+<td align="center" valign="top" width="25%">
 
-### 📊 Data Science & Visualization
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-38bdf8?style=flat-square" width="100%"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="35"/>
+### 🔮 LLMs & VLMs
 
-<br/><br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-38bdf8?style=flat-square" width="100%"/>
 
-### ☁️ Cloud & DevOps
+Fine-tuning, RAG systems & AI agents — LLaMA to production APIs
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,gitlab,git&theme=dark" height="55"/>
+![LLaMA](https://img.shields.io/badge/LLaMA-38bdf8?style=flat-square&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-38bdf8?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-38bdf8?style=flat-square&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-38bdf8?style=flat-square&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-38bdf8?style=flat-square&logo=openai&logoColor=white)
+![LLaVA](https://img.shields.io/badge/LLaVA-38bdf8?style=flat-square&logoColor=white)
 
-<br/><br/>
+</td>
 
-### 🗄️ Databases
+<td align="center" valign="top" width="25%">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-10b981?style=flat-square" width="100%"/>
 
-<br/><br/>
+### 📊 Data Science
 
-### 🎯 BI & Dashboard Tools
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-10b981?style=flat-square" width="100%"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="35"/>
+EDA, predictive modeling, BI dashboards — raw data to insights
 
-<br/><br/>
+![Pandas](https://img.shields.io/badge/Pandas-10b981?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-10b981?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-10b981?style=flat-square&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-10b981?style=flat-square&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-10b981?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-10b981?style=flat-square&logo=streamlit&logoColor=white)
 
-### 🔧 IoT & Embedded Hardware
+</td>
 
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="55"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" height="35"/>
-
+</tr>
+</table>
 </div>
+
 
 ---
 
-## 📈 CODING ACTIVITY & METRICS
-
-<div align="center">
-
-<!-- Profile Summary Banner -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishbarkat&theme=radical" width="98%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=56&text=◈+03.+TECH+STACK&fontSize=28&fontColor=a855f7&fontAlign=50&stroke=a855f7&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=danishbarkat&theme=radical&hide_border=true&border_radius=12&background=0D1117&ring=00FF87&fire=FF006E&currStreakLabel=60EFFF&sideLabels=60EFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,r,bash,java&theme=dark" height="50"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-a855f7?style=flat-square"/>
+
+**🤖 AI · ML · Deep Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="44"/>
+
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2ecc71?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-ec4899?style=flat-square"/>
+
+**🧠 LLMs · VLMs · GenAI**
+
+![LLaMA](https://img.shields.io/badge/LLaMA-7c3aed?style=flat-square&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-0ea5e9?style=flat-square&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-10a37f?style=flat-square&logo=openai&logoColor=white)
+![GPT-4V](https://img.shields.io/badge/GPT--4V-10a37f?style=flat-square&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-ec4899?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LLaVA](https://img.shields.io/badge/LLaVA-a855f7?style=flat-square&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-f43f5e?style=flat-square&logo=openai&logoColor=white)
+![Sesame AI](https://img.shields.io/badge/Sesame_AI-f59e0b?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-38bdf8?style=flat-square&logo=chainlink&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-7c3aed?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-10b981?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-ec4899?style=flat-square&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logoColor=white)
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38bdf8?style=flat-square"/>
+
+**👁️ Computer Vision & Segmentation**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![SAM](https://img.shields.io/badge/SAM-0668E1?style=flat-square&logo=meta&logoColor=white)
+![Detectron2](https://img.shields.io/badge/Detectron2-4B0082?style=flat-square&logo=meta&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![MaskRCNN](https://img.shields.io/badge/Mask_RCNN-7c3aed?style=flat-square&logoColor=white)
+![DeepLab](https://img.shields.io/badge/DeepLab-ec4899?style=flat-square&logoColor=white)
+![FasterRCNN](https://img.shields.io/badge/Faster_RCNN-f59e0b?style=flat-square&logoColor=white)
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10b981?style=flat-square"/>
+
+**🤖 Automation & APIs**
+
+![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f59e0b?style=flat-square"/>
+
+**☁️ Cloud · DevOps · MLOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux&theme=dark" height="44"/>
+
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Functions](https://img.shields.io/badge/Az_Functions-a855f7?style=flat-square&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-0ea5e9?style=flat-square&logo=microsoftazure&logoColor=white)
+![IoT Hub](https://img.shields.io/badge/IoT_Hub-10b981?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f43f5e?style=flat-square"/>
+
+**🗄️ Data · Databases · BI**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="44"/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4dabcf?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7c3aed?style=flat-square"/>
+
+**🔌 IoT & Embedded**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="44"/>
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white)
+![IoT Edge](https://img.shields.io/badge/IoT_Edge-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+</div>
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=56&text=◈+04.+GITHUB+STATS&fontSize=28&fontColor=10b981&fontAlign=50&stroke=10b981&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishbarkat&theme=radical" width="97%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=danishbarkat&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=ec4899&text_color=ffffff&ring_color=a855f7&border_radius=12" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=danishbarkat&hide_border=true&border_radius=12&background=0d0221&ring=a855f7&fire=ec4899&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=6b6b8a" width="48%"/>
 
 <br/><br/>
 
-<!-- Stats Grid -->
-<table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishbarkat&layout=compact&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=ffffff&border_radius=12" width="38%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danishbarkat&theme=radical" width="38%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishbarkat&bg_color=0d0221&color=a855f7&line=ec4899&point=38bdf8&area=true&area_color=a855f720&hide_border=true&radius=8" width="97%"/>
+
+</div>
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=56&text=◈+05.+CERTIFICATIONS&fontSize=28&fontColor=f59e0b&fontAlign=50&stroke=f59e0b&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<table width="96%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=danishbarkat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF87&icon_color=FF006E&text_color=FFFFFF&border_radius=12" width="100%"/>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/80/google-logo.png" width="58"/><br/>
+      <b>Google</b><br/>
+      <sub>Data Analytics Professional</sub><br/><br/>
+      <img src="https://img.shields.io/badge/✓_VERIFIED-10b981?style=for-the-badge&labelColor=0d0221&logoColor=white"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishbarkat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF87&text_color=FFFFFF&border_radius=12" width="100%"/>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/80/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="58"/><br/>
+      <b>HackerRank</b><br/>
+      <sub>Data Science Expert</sub><br/><br/>
+      <img src="https://img.shields.io/badge/✓_VERIFIED-a855f7?style=for-the-badge&labelColor=0d0221&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishbarkat&theme=radical" width="100%"/>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="38"/><br/><br/>
+      <b>Coursera</b><br/>
+      <sub>ML Specialization</sub><br/><br/>
+      <img src="https://img.shields.io/badge/✓_VERIFIED-38bdf8?style=for-the-badge&labelColor=0d0221&logoColor=white"/>
     </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishbarkat&theme=radical" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danishbarkat&theme=radical" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danishbarkat&theme=radical" width="100%"/>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/80/amazon-web-services.png" width="58"/><br/>
+      <b>AWS</b><br/>
+      <sub>Cloud Practitioner</sub><br/><br/>
+      <img src="https://img.shields.io/badge/✓_VERIFIED-f59e0b?style=for-the-badge&labelColor=0d0221&logoColor=white"/>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishbarkat&bg_color=0D1117&color=00FF87&line=FF006E&point=60EFFF&area=true&area_color=00FF8722&hide_border=true&radius=12" width="98%"/>
-
 </div>
+
 
 ---
 
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
-
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/google-logo.png" width="65"/><br>
-      <strong>Google Data Analytics</strong><br>
-      <sub>Professional Certificate</sub><br>
-      <img src="https://img.shields.io/badge/✓_VERIFIED-00ff87?style=flat-square&labelColor=0d1117"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="65"/><br>
-      <strong>HackerRank</strong><br>
-      <sub>Data Science Expert</sub><br>
-      <img src="https://img.shields.io/badge/✓_VERIFIED-00ff87?style=flat-square&labelColor=0d1117"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/coursera.png" width="65"/><br>
-      <strong>Coursera ML</strong><br>
-      <sub>Specialization</sub><br>
-      <img src="https://img.shields.io/badge/✓_VERIFIED-00ff87?style=flat-square&labelColor=0d1117"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="65"/><br>
-      <strong>AWS Certified</strong><br>
-      <sub>Cloud Practitioner</sub><br>
-      <img src="https://img.shields.io/badge/✓_VERIFIED-00ff87?style=flat-square&labelColor=0d1117"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🎓_LIFELONG_LEARNER-FFD700?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🚀_INNOVATION_DRIVER-00ff87?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💡_PROBLEM_SOLVER-ff006e?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🧠_AI_RESEARCHER-60efff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/⚙️_SYSTEMS_BUILDER-bf00ff?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
----
-
-## 📊 WEEKLY DEVELOPMENT BREAKDOWN
-
-<div align="center">
-
-```text
-Python         ████████████████████░░░░░   78.3 %
-C++            ████░░░░░░░░░░░░░░░░░░░░░    8.1 %
-JavaScript     ███░░░░░░░░░░░░░░░░░░░░░░    6.4 %
-R              ██░░░░░░░░░░░░░░░░░░░░░░░    4.2 %
-Bash/Shell     █░░░░░░░░░░░░░░░░░░░░░░░░    2.6 %
-Other          ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4 %
-```
-
-</div>
-
----
-
-## 💬 RANDOM DEV WISDOM
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="90%"/>
-  <br/><br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="60%"/>
-</div>
-
----
-
-## 🌐 LET'S CONNECT & COLLABORATE
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="80"/><br>
-        <strong>LinkedIn</strong><br>
-        <sub>Let's Connect Professionally</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="mailto:barkatdanish44@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="80"/><br>
-        <strong>Email</strong><br>
-        <sub>barkatdanish44@gmail.com</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/danishbarkat" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/github.png" width="80"/><br>
-        <strong>GitHub</strong><br>
-        <sub>Check out my code</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <a href="#" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/domain.png" width="80"/><br>
-        <strong>Portfolio</strong><br>
-        <sub>View my complete work</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="mailto:barkatdanish44@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://github.com/danishbarkat">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"/>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+### `◈ Let's Build Something That Matters`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishbarkat)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barkatdanish44@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danishbarkat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-10b981?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://danishbarkat.github.io)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=footer&text=danish%20barkat%20·%202026&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
 
 </div>
-
-
