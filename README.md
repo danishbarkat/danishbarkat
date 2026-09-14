@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DANISH%20BARKAT&fontSize=80&color=0:0d0221,25:1a0533,50:0d1545,75:1a0533,100:0d0221&fontColor=ffffff&animation=fadeIn&stroke=a855f7&strokeWidth=3&desc=◈%20AI%20Engineer%20◈%20Data%20Scientist%20◈%20ML%20Architect%20◈%20Computer%20Vision%20◈&descSize=17&descColor=38bdf8&fontAlignY=44&descAlignY=68" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=720&lines=⚡+Production+ML+%7C+Real+Business+Impact;🧠+LLMs+·+VLMs+·+Generative+AI+Products;👁️+Computer+Vision+%26+Segmentation+at+Scale;📊+Data+Scientist+—+From+Data+to+Decisions;🚀+Karachi%2C+PK+—+Open+to+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=720&lines=%E2%9A%A1+Production+ML+%7C+Real+Business+Impact;%F0%9F%A7%A0+LLMs+%C2%B7+VLMs+%C2%B7+Generative+AI+Products;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%26+Segmentation+at+Scale;%F0%9F%93%8A+Data+Scientist+%E2%80%94+From+Data+to+Decisions;%F0%9F%9A%80+Karachi%2C+PK+%E2%80%94+Open+to+Opportunities" alt="Typing SVG"/>
 
 <br/>
 
@@ -90,79 +90,74 @@ motto = "Data is oil — I run the refinery ⚗️"
 <table width="96%">
 <tr>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-f43f5e?style=flat-square" width="100%"/>
+<h3>🤖 ML Systems</h3>
 
-### 🤖 ML Systems
+<sub>FROM EXPERIMENT TO PRODUCTION</sub>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-f43f5e?style=flat-square" width="100%"/>
-
-End-to-end pipelines training → serving on Azure ML & AKS
+End-to-end pipelines — training → serving on Azure ML & AKS
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="36"/>
 
-![Sklearn](https://img.shields.io/badge/Sklearn-f43f5e?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-f43f5e?style=flat-square&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-f43f5e?style=flat-square&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-f43f5e?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/Sklearn-f43f5e?style=flat-square&logo=scikitlearn&logoColor=white" alt="Sklearn"/>
+<img src="https://img.shields.io/badge/XGBoost-f43f5e?style=flat-square&logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/MLflow-f43f5e?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/FastAPI-f43f5e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-a855f7?style=flat-square" width="100%"/>
+<h3>👁️ Computer Vision</h3>
 
-### 👁️ Computer Vision
+<sub>PIXELS INTO INTELLIGENCE</sub>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-a855f7?style=flat-square" width="100%"/>
+Detection, segmentation & tracking — YOLO to IoT Edge
 
-Detection, segmentation & tracking — YOLO to IoT Edge deployment
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-a855f7?style=flat-square&logoColor=white)
-![SAM](https://img.shields.io/badge/SAM-a855f7?style=flat-square&logo=meta&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-a855f7?style=flat-square&logo=opencv&logoColor=white)
-![Detectron2](https://img.shields.io/badge/Detectron2-a855f7?style=flat-square&logo=meta&logoColor=white)
-![MaskRCNN](https://img.shields.io/badge/Mask_RCNN-a855f7?style=flat-square&logoColor=white)
-![DeepLab](https://img.shields.io/badge/DeepLab-a855f7?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/YOLOv8-a855f7?style=flat-square&logoColor=white" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/SAM-a855f7?style=flat-square&logo=meta&logoColor=white" alt="SAM"/>
+<img src="https://img.shields.io/badge/OpenCV-a855f7?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Detectron2-a855f7?style=flat-square&logo=meta&logoColor=white" alt="Detectron2"/>
+<img src="https://img.shields.io/badge/Mask_RCNN-a855f7?style=flat-square&logoColor=white" alt="MaskRCNN"/>
+<img src="https://img.shields.io/badge/DeepLab-a855f7?style=flat-square&logoColor=white" alt="DeepLab"/>
 
 </td>
 
-<td align="center" valign="top" width="25%">
+</tr>
+<tr>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-38bdf8?style=flat-square" width="100%"/>
+<td align="center" valign="top" width="50%">
 
-### 🔮 LLMs & VLMs
+<h3>🔮 LLMs & VLMs</h3>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-38bdf8?style=flat-square" width="100%"/>
+<sub>MODELS THAT READ, REASON & ACT</sub>
 
-Fine-tuning, RAG systems & AI agents — LLaMA to production APIs
+Fine-tuning, RAG & AI agents — LLaMA to production APIs
 
-![LLaMA](https://img.shields.io/badge/LLaMA-38bdf8?style=flat-square&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-38bdf8?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-38bdf8?style=flat-square&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-38bdf8?style=flat-square&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-38bdf8?style=flat-square&logo=openai&logoColor=white)
-![LLaVA](https://img.shields.io/badge/LLaVA-38bdf8?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/LLaMA-38bdf8?style=flat-square&logoColor=white" alt="LLaMA"/>
+<img src="https://img.shields.io/badge/BERT-38bdf8?style=flat-square&logoColor=white" alt="BERT"/>
+<img src="https://img.shields.io/badge/LangChain-38bdf8?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/RAG-38bdf8?style=flat-square&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/CLIP-38bdf8?style=flat-square&logo=openai&logoColor=white" alt="CLIP"/>
+<img src="https://img.shields.io/badge/LLaVA-38bdf8?style=flat-square&logoColor=white" alt="LLaVA"/>
 
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-10b981?style=flat-square" width="100%"/>
+<h3>📊 Data Science</h3>
 
-### 📊 Data Science
+<sub>DATA INTO DECISIONS</sub>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-10b981?style=flat-square" width="100%"/>
+EDA, predictive modeling & BI — raw data to insights
 
-EDA, predictive modeling, BI dashboards — raw data to insights
-
-![Pandas](https://img.shields.io/badge/Pandas-10b981?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-10b981?style=flat-square&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-10b981?style=flat-square&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-10b981?style=flat-square&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-10b981?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-10b981?style=flat-square&logo=streamlit&logoColor=white)
+<img src="https://img.shields.io/badge/Pandas-10b981?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-10b981?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Tableau-10b981?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Power_BI-10b981?style=flat-square&logo=powerbi&logoColor=white" alt="PowerBI"/>
+<img src="https://img.shields.io/badge/SQL-10b981?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Streamlit-10b981?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
 </td>
 
@@ -173,112 +168,135 @@ EDA, predictive modeling, BI dashboards — raw data to insights
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=56&text=◈+03.+TECH+STACK&fontSize=28&fontColor=a855f7&fontAlign=50&stroke=a855f7&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=56&text=◈+03.+TECH+ECOSYSTEM&fontSize=28&fontColor=a855f7&fontAlign=50&stroke=a855f7&strokeWidth=1" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,r,bash,java&theme=dark" height="50"/>
+<h3>⚡ Languages I Build With</h3>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,r,bash&theme=dark" height="52" alt="Python, C++, JavaScript, Java, R and Bash"/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-a855f7?style=flat-square"/>
+<br/><br/>
 
-**🤖 AI · ML · Deep Learning**
+<table width="96%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="44"/>
+<h3>🤖 AI / Machine Learning</h3>
+<sub>TRAIN • EVALUATE • SHIP</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-f43f5e?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-f43f5e?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-f43f5e?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Keras-f43f5e?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/XGBoost-f43f5e?style=flat-square" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LightGBM-f43f5e?style=flat-square" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Hugging_Face-f43f5e?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/MLflow-f43f5e?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Weights_%26_Biases-f43f5e?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases"/>
 
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2ecc71?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+</td>
+<td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-ec4899?style=flat-square"/>
+<h3>🧠 Generative & Multimodal AI</h3>
+<sub>RETRIEVE • REASON • GENERATE</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/LLaMA-a855f7?style=flat-square" alt="LLaMA"/>
+<img src="https://img.shields.io/badge/BERT-a855f7?style=flat-square" alt="BERT"/>
+<img src="https://img.shields.io/badge/GPT--4-a855f7?style=flat-square&logo=openai&logoColor=white" alt="GPT-4"/>
+<img src="https://img.shields.io/badge/Gemini-a855f7?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Mistral-a855f7?style=flat-square" alt="Mistral"/>
+<img src="https://img.shields.io/badge/LLaVA-a855f7?style=flat-square" alt="LLaVA"/>
+<img src="https://img.shields.io/badge/CLIP-a855f7?style=flat-square&logo=openai&logoColor=white" alt="CLIP"/>
+<img src="https://img.shields.io/badge/LangChain-a855f7?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/AutoGen-a855f7?style=flat-square" alt="AutoGen"/>
+<img src="https://img.shields.io/badge/RAG-a855f7?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/FAISS-a855f7?style=flat-square" alt="FAISS"/>
+<img src="https://img.shields.io/badge/spaCy-a855f7?style=flat-square&logo=spacy&logoColor=white" alt="spaCy"/>
 
-**🧠 LLMs · VLMs · GenAI**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-![LLaMA](https://img.shields.io/badge/LLaMA-7c3aed?style=flat-square&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-0ea5e9?style=flat-square&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-10a37f?style=flat-square&logo=openai&logoColor=white)
-![GPT-4V](https://img.shields.io/badge/GPT--4V-10a37f?style=flat-square&logo=openai&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-ec4899?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![LLaVA](https://img.shields.io/badge/LLaVA-a855f7?style=flat-square&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-f43f5e?style=flat-square&logo=openai&logoColor=white)
-![Sesame AI](https://img.shields.io/badge/Sesame_AI-f59e0b?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-38bdf8?style=flat-square&logo=chainlink&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-7c3aed?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-10b981?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-ec4899?style=flat-square&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logoColor=white)
+<h3>👁️ Computer Vision</h3>
+<sub>DETECT • SEGMENT • TRACK</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/YOLOv8-38bdf8?style=flat-square" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/OpenCV-38bdf8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/SAM-38bdf8?style=flat-square&logo=meta&logoColor=white" alt="SAM"/>
+<img src="https://img.shields.io/badge/Detectron2-38bdf8?style=flat-square&logo=meta&logoColor=white" alt="Detectron2"/>
+<img src="https://img.shields.io/badge/MediaPipe-38bdf8?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/Mask_R--CNN-38bdf8?style=flat-square" alt="Mask R-CNN"/>
+<img src="https://img.shields.io/badge/DeepLab-38bdf8?style=flat-square" alt="DeepLab"/>
+<img src="https://img.shields.io/badge/Faster_R--CNN-38bdf8?style=flat-square" alt="Faster R-CNN"/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38bdf8?style=flat-square"/>
+</td>
+<td width="50%" valign="top" align="center">
 
-**👁️ Computer Vision & Segmentation**
+<h3>⚙️ Automation & APIs</h3>
+<sub>CONNECT • AUTOMATE • SCALE</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/n8n-10b981?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Zapier-10b981?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
+<img src="https://img.shields.io/badge/FastAPI-10b981?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flask-10b981?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![SAM](https://img.shields.io/badge/SAM-0668E1?style=flat-square&logo=meta&logoColor=white)
-![Detectron2](https://img.shields.io/badge/Detectron2-4B0082?style=flat-square&logo=meta&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![MaskRCNN](https://img.shields.io/badge/Mask_RCNN-7c3aed?style=flat-square&logoColor=white)
-![DeepLab](https://img.shields.io/badge/DeepLab-ec4899?style=flat-square&logoColor=white)
-![FasterRCNN](https://img.shields.io/badge/Faster_RCNN-f59e0b?style=flat-square&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10b981?style=flat-square"/>
+<h3>☁️ Cloud, DevOps & MLOps</h3>
+<sub>DEPLOY • OBSERVE • ITERATE</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Azure_ML-f59e0b?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure ML"/>
+<img src="https://img.shields.io/badge/AKS-f59e0b?style=flat-square&logo=kubernetes&logoColor=white" alt="AKS"/>
+<img src="https://img.shields.io/badge/AWS-f59e0b?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/GCP-f59e0b?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Docker-f59e0b?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-f59e0b?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-f59e0b?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Prometheus-f59e0b?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-f59e0b?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/DVC-f59e0b?style=flat-square&logo=dvc&logoColor=white" alt="DVC"/>
 
-**🤖 Automation & APIs**
+</td>
+<td width="50%" valign="top" align="center">
 
-![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+<h3>🗄️ Data, Databases & BI</h3>
+<sub>STORE • ANALYZE • VISUALIZE</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-ec4899?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-ec4899?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/PostgreSQL-ec4899?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-ec4899?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-ec4899?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Plotly-ec4899?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Tableau-ec4899?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Power_BI-ec4899?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Streamlit-ec4899?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/ClickHouse-ec4899?style=flat-square&logo=clickhouse&logoColor=white" alt="ClickHouse"/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f59e0b?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
 
-**☁️ Cloud · DevOps · MLOps**
+<h3>🔌 IoT & Edge</h3>
+<sub>SENSE • INFER • RESPOND</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-7c3aed?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Arduino-7c3aed?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-7c3aed?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/MQTT-7c3aed?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT"/>
+<img src="https://img.shields.io/badge/Azure_IoT_Edge-7c3aed?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure IoT Edge"/>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux&theme=dark" height="44"/>
-
-![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Functions](https://img.shields.io/badge/Az_Functions-a855f7?style=flat-square&logo=microsoftazure&logoColor=white)
-![Synapse](https://img.shields.io/badge/Synapse-0ea5e9?style=flat-square&logo=microsoftazure&logoColor=white)
-![IoT Hub](https://img.shields.io/badge/IoT_Hub-10b981?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f43f5e?style=flat-square"/>
-
-**🗄️ Data · Databases · BI**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="44"/>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4dabcf?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7c3aed?style=flat-square"/>
-
-**🔌 IoT & Embedded**
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="44"/>
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white)
-![IoT Edge](https://img.shields.io/badge/IoT_Edge-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -295,17 +313,17 @@ EDA, predictive modeling, BI dashboards — raw data to insights
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=danishbarkat&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=ec4899&text_color=ffffff&ring_color=a855f7&border_radius=12" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danishbarkat&theme=radical" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=danishbarkat&hide_border=true&border_radius=12&background=0d0221&ring=a855f7&fire=ec4899&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=6b6b8a" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishbarkat&layout=compact&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=ffffff&border_radius=12" width="38%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishbarkat&theme=radical" width="38%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danishbarkat&theme=radical" width="38%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishbarkat&bg_color=0d0221&color=a855f7&line=ec4899&point=38bdf8&area=true&area_color=a855f720&hide_border=true&radius=8" width="97%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishbarkat&theme=radical" width="76%"/>
 
 </div>
 
